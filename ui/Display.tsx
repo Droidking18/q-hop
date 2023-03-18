@@ -106,7 +106,6 @@ function Display(): JSX.Element {
 
 const styles = StyleSheet.create({
   sectionContainer: {
-    // marginVertical: 8,
     paddingVertical: 8,
     paddingHorizontal: 32,
     textAlign: 'center',
